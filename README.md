@@ -2,7 +2,7 @@
 <!-- <img src="https://i.pinimg.com/originals/df/0e/ff/df0eff785a1e674a7cc51fb08920af9d.gif"/> -->
 
 - 👋 Hi, I’m <a href="https://github.com/Snakesystem"> Feri Irawansyah </a>
-- 👀 I’m interested in Data Science and Web Development
+- 👀 I’m interested in Data Science and Software Engineer
 - 🌱 I’m currently learning all new interesting things
 - 💞️ I’m looking to collaborate on my interesting project 
 - 📫 How to reach me, find me on LinkedIn (<a href="https://www.linkedin.com/in/feri-irawansyah/">Feri Irawansyah</a>)
