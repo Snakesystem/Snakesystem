@@ -1,21 +1,22 @@
-@@ -1,5 +1,5 @@
-<!-- <img src="https://i.pinimg.com/originals/df/0e/ff/df0eff785a1e674a7cc51fb08920af9d.gif"/> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snakesystem&label=Profile%20views&color=0e75b6&style=flat" alt="snakesystem" /> </p>
 
-- 👋 Hi, I’m <a href="https://github.com/Snakesystem"> Feri Irawansyah </a>
-- 👀 I’m interested in Data Science and Software Engineer
-- 🌱 I’m currently learning all new interesting things
-- 💞️ I’m looking to collaborate on my interesting project 
-- 📫 How to reach me, find me on LinkedIn (<a href="https://www.linkedin.com/in/feri-irawansyah/">Feri Irawansyah</a>)
-<!---
-snakesystem/snakesystem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. --->
-<a href="https://github.com/snakesystem">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=snakesystem&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,FFDE59&theme=graywhite" />
-  <!-- wi*quL3fcV -->
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakesystem&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&theme=dracula" />
-</a>
-<!-- Stats -->
-<!--
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Snakesystem&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![](https://raw.githubusercontent.com/snakesystem/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/snakesystem/github-stats-transparent/output/generated/languages.svg)
+- 🔭 I’m currently working on [Artificial Intellegence](https://github.com/snakesystem/Belajar-Python)
+- 🔭 I’m currently working on [Internet of Things Part Time](https://github.com/snakesystem/Belajar-Python)
+
+- 🌱 I’m currently learning **Artificial Intellegence in Orbit Future Academy**
+- 🌱 I’m currently learning **Artificial Intellegence in Orbit Future Academy**, **Internet of Things in Indobot Academy**
+
+- 👯 I’m looking to collaborate on [Github](https://github.com/snakesystem)
+
+- 📫 How to reach me **feryirawansyah09@gmail.com**
+- 📄 Know about my experiences [https://www.linkedin.com/in/feri-irawansyah/](https://www.linkedin.com/in/feri-irawansyah/)
+- ⚡ Fun fact **I like to learn new things.**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/feri-irawansyah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/feri-irawansyah/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fery_ir.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fery_ir.1" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snakesystem&show_icons=true&locale=en&layout=compact" alt="snakesystem" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snakesystem&show_icons=true&locale=en" alt="snakesystem" /></p>
