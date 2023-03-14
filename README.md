@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snakesystem&label=Profile%20views&color=0e75b6&style=flat" alt="snakesystem" /> </p>
 
-- 🔭 I’m currently working on **Fullstack development** [S21 Micropiranti Computer](https://micropiranti.com/)
+- 🔭 I’m currently working **Fullstack development** on [Bursa Efek Indonesia](https://www.idx.co.id/) & [S21 Micropiranti Computer](https://micropiranti.com/)
 
 - 🌱 I’m currently learning **Artificial Intellegence in Kampus Merdeka**, **Programming in Codepolitan**
 
