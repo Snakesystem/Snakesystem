@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snakesystem&label=Profile%20views&color=0e75b6&style=flat" alt="snakesystem" /> </p>
 
-- 🔭 I’m currently working on [Artificial Intellegence](https://github.com/snakesystem/Belajar-Python)
-- 🔭 I’m currently working on [Internet of Things Part Time](https://github.com/snakesystem/Belajar-Python)
+- 🔭 I’m currently working on **Fullstack development** [S21 Micropiranti Computer](https://micropiranti.com/)
 
-- 🌱 I’m currently learning **Artificial Intellegence in Orbit Future Academy**
-- 🌱 I’m currently learning **Artificial Intellegence in Orbit Future Academy**, **Internet of Things in Indobot Academy**
+- 🌱 I’m currently learning **Artificial Intellegence in Kampus Merdeka**, **Internet of Things in Indobot Academy**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/snakesystem)
 
