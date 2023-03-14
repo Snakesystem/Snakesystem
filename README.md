@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Fullstack development** [S21 Micropiranti Computer](https://micropiranti.com/)
 
-- 🌱 I’m currently learning **Artificial Intellegence in Kampus Merdeka**, **Internet of Things in Indobot Academy**
+- 🌱 I’m currently learning **Artificial Intellegence in Kampus Merdeka**, **Programming in Codepolitan**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/snakesystem)
 
