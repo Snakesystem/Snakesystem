@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/feri-irawansyah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/feri-irawansyah/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fery_ir.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fery_ir.1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fery_ir.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fery_ir.1" height="30" width="40" /></a> <a href="https://medium.com/@snakesystem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="fery_ir.1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
