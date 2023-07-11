@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working **Fullstack development** on [Bursa Efek Indonesia](https://www.idx.co.id/) & [S21 Micropiranti Computer](https://micropiranti.com/)
 
-- 🌱 I’m currently learning **Artificial Intellegence in Kampus Merdeka**, **Programming in Codepolitan**
-
 - 👯 I’m looking to collaborate on [Github](https://github.com/snakesystem)
 
 - 📫 How to reach me **feryirawansyah09@gmail.com**
