@@ -15,10 +15,10 @@
 - ⚡ Fun fact **I like to learn new things.**
 
 # 💻 Programming & Tools
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakesystem&layout=compact&langs_count=10&exclude_repo=true&?cache_seconds=60" alt="snakesystem" /></p>
 
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snakesystem&theme=radical&?cache_seconds=60)](https://github.com/snakesystem)
+
 ## Programming Language
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
