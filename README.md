@@ -15,9 +15,9 @@
 - ⚡ Fun fact **I like to learn new things.**
 
 # 💻 Programming & Tools
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakesystem&layout=compact&langs_count=10&exclude_repo=true&?cache_seconds=60" alt="snakesystem" /></p>
-
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snakesystem&theme=radical&?cache_seconds=60)](https://github.com/snakesystem)
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakesystem&layout=compact&langs_count=10&exclude_repo=true?&cache_seconds=60" alt="snakesystem" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snakesystem&theme=radical&?cache_seconds=60" alt="snakesystem" />
+</p>
 
 ## Programming Language
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
