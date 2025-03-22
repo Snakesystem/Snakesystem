@@ -39,7 +39,8 @@
 ![Actix](https://img.shields.io/badge/actix-%23323330.svg?style=for-the-badge&logo=actix&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/-dotnet-blue?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/-bun-black?style=for-the-badge&logo=bun&logoColor=white)
-![Flask](https://img.shields.io/badge/-flask-white?style=for-the-badge&logo=flask&logoColor=black)
+![Docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-kubernetes-%23323330?style=for-the-badge&logo=kubernetes&logoColor=23F7DF1E)
 <br/>
 
 ![Postgres](https://img.shields.io/badge/postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white)
