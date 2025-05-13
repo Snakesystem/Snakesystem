@@ -2,7 +2,7 @@
 <!-- <p align="center">
   <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/programming.gif" alt="Intro" />
 </p> -->
-<h1 align="center">Hi 👋, I'm Feri Irawansyah</h1>
+![Header](https://github.com/user-attachments/assets/4bb21512-147c-4206-a063-aebe3cde64c2)
 <h3 align="center">A Passionate Software Engineer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snakesystem&label=Profile%20views&color=0e75b6&style=flat" alt="snakesystem" /> </p>
 
