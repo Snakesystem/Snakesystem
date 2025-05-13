@@ -16,37 +16,57 @@
 
 # 💻 Programming & Tools
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakesystem&layout=compact&langs_count=10&exclude_repo=true?&cache_seconds=60" alt="snakesystem" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snakesystem&theme=radical&?cache_seconds=60" alt="snakesystem" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snakesystem&theme=radical&?cache_seconds=60" alt="snakesystem" /> 
 </p>
 
-## Programming Language
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+### Programming Language
+<!-- Badges from https://github.com/Ileriayo/markdown-badges 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-black.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-%23947ACC.svg?style=for-the-badge&logo=C#&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=23F7DF1E)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=23F7DF1E) -->
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,js,html,css,cs,ts,python" />
+  </a>
+</p>
 
-## Tech Stack
-![Svelte](https://img.shields.io/badge/svelte-white?style=for-the-badge&logo=svelte&logoColor=orange)
+### Tech Stack
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=actix,vite,svelte,bun,nodejs,dotnet,flask,react,bootstrap,sass,tauri,express" />
+  </a>
+</p>
+
+### Others
+<p align="start">
+  <a href="https://skillicons.dev">
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+    <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,sqlite,git,vercel,netlify,prisma,ubuntu,vitest,nginx,docker,kubernetes" />
+  </a>
+</p>
+
+<!--![Svelte](https://img.shields.io/badge/svelte-white?style=for-the-badge&logo=svelte&logoColor=orange)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Sass](https://img.shields.io/badge/bootatrap-purple.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/sass-pink.svg?style=for-the-badge&logo=sass&logoColor=white)
-<br/>
+<br/>-->
 
-![Actix](https://img.shields.io/badge/actix-%23323330.svg?style=for-the-badge&logo=actix&logoColor=white)
+<!--![Actix](https://img.shields.io/badge/actix-%23323330.svg?style=for-the-badge&logo=actix&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/-dotnet-blue?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/-bun-black?style=for-the-badge&logo=bun&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-%23323330?style=for-the-badge&logo=kubernetes&logoColor=23F7DF1E)
 <br/>
 
 ![Postgres](https://img.shields.io/badge/postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MsSQL](https://img.shields.io/badge/mssql-white.svg?style=for-the-badge&logo=mssql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23F24E1E.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MsSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23F24E1E.svg?style=for-the-badge&logo=redis&logoColor=white) -->
 
 
 # 📩 Connect With Me
