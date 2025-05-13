@@ -2,8 +2,8 @@
 <!-- <p align="center">
   <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/programming.gif" alt="Intro" />
 </p> -->
-![Header](https://github.com/user-attachments/assets/4bb21512-147c-4206-a063-aebe3cde64c2)
-<h3 align="center">A Passionate Software Engineer from Indonesia</h3>
+![Header](https://github.com/user-attachments/assets/86c86d08-03f0-4bd8-8616-45fac457d790)
+<!-- <h3 align="center">A Passionate Software Engineer from Indonesia</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snakesystem&label=Profile%20views&color=0e75b6&style=flat" alt="snakesystem" /> </p>
 
 - 🔭 I’m currently working **Web Developer** on [S21 Micropiranti Computer](https://micropiranti.com/)
